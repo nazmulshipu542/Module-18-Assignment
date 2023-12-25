@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "6589638b4a3f93be51bed96d"
+  },
+  "userID": "john_doe",
+  "productID": "prod123",
+  "color": "Blue",
+  "quantity": 2,
+  "size": "Medium",
+  "price": 59.99
+},
+{
+  "_id": {
+    "$oid": "6589638b4a3f93be51bed96e"
+  },
+  "userID": "alice_smith",
+  "productID": "prod456",
+  "color": "Red",
+  "quantity": 1,
+  "size": "Large",
+  "price": 79.99
+},
+{
+  "_id": {
+    "$oid": "6589638b4a3f93be51bed96f"
+  },
+  "userID": "bob_johnson",
+  "productID": "prod789",
+  "color": "Black",
+  "quantity": 3,
+  "size": "Small",
+  "price": 29.99
+},
+{
+  "_id": {
+    "$oid": "6589638b4a3f93be51bed970"
+  },
+  "userID": "eva_brown",
+  "productID": "prod987",
+  "color": "Green",
+  "quantity": 5,
+  "size": "Extra Large",
+  "price": 49.99
+},
+{
+  "_id": {
+    "$oid": "6589638b4a3f93be51bed971"
+  },
+  "userID": "michael_miller",
+  "productID": "prod654",
+  "color": "White",
+  "quantity": 1,
+  "size": "Medium",
+  "price": 39.99
+},
+{
+  "_id": {
+    "$oid": "6589638b4a3f93be51bed972"
+  },
+  "userID": "emma_jones",
+  "productID": "prod234",
+  "color": "Purple",
+  "quantity": 2,
+  "size": "Small",
+  "price": 49.99
+},
+{
+  "_id": {
+    "$oid": "6589638b4a3f93be51bed973"
+  },
+  "userID": "david_wilson",
+  "productID": "prod567",
+  "color": "Silver",
+  "quantity": 1,
+  "size": "Large",
+  "price": 99.99
+},
+{
+  "_id": {
+    "$oid": "6589638b4a3f93be51bed974"
+  },
+  "userID": "olivia_smith",
+  "productID": "prod876",
+  "color": "Yellow",
+  "quantity": 4,
+  "size": "Extra Small",
+  "price": 19.99
+},
+{
+  "_id": {
+    "$oid": "6589638b4a3f93be51bed975"
+  },
+  "userID": "noah_jackson",
+  "productID": "prod345",
+  "color": "Orange",
+  "quantity": 3,
+  "size": "Medium",
+  "price": 69.99
+},
+{
+  "_id": {
+    "$oid": "6589638b4a3f93be51bed976"
+  },
+  "userID": "sophia_anderson",
+  "productID": "prod789",
+  "color": "Brown",
+  "quantity": 1,
+  "size": "Large",
+  "price": 79.99
+}]

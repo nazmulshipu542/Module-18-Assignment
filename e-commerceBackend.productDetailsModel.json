@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "65896da54a3f93be51bed9b3"
+  },
+  "productID": "prod123",
+  "img1": "https://example.com/product123_img1.jpg",
+  "img2": "https://example.com/product123_img2.jpg",
+  "img3": "https://example.com/product123_img3.jpg",
+  "img4": "https://example.com/product123_img4.jpg",
+  "description": "High-performance Smartphone X with advanced features.",
+  "color": "Black",
+  "size": "Medium"
+},
+{
+  "_id": {
+    "$oid": "65896da54a3f93be51bed9b4"
+  },
+  "productID": "prod456",
+  "img1": "https://example.com/product456_img1.jpg",
+  "img2": "https://example.com/product456_img2.jpg",
+  "img3": "https://example.com/product456_img3.jpg",
+  "img4": "https://example.com/product456_img4.jpg",
+  "description": "Stylish Wireless Headphones for an immersive audio experience.",
+  "color": "Silver",
+  "size": "One Size"
+},
+{
+  "_id": {
+    "$oid": "65896da54a3f93be51bed9b5"
+  },
+  "productID": "prod789",
+  "img1": "https://example.com/product789_img1.jpg",
+  "img2": "https://example.com/product789_img2.jpg",
+  "img3": "https://example.com/product789_img3.jpg",
+  "img4": "https://example.com/product789_img4.jpg",
+  "description": "Powerful Laptop Pro for seamless productivity.",
+  "color": "Space Gray",
+  "size": "15-inch"
+},
+{
+  "_id": {
+    "$oid": "65896da54a3f93be51bed9b6"
+  },
+  "productID": "prod987",
+  "img1": "https://example.com/product987_img1.jpg",
+  "img2": "https://example.com/product987_img2.jpg",
+  "img3": "https://example.com/product987_img3.jpg",
+  "img4": "https://example.com/product987_img4.jpg",
+  "description": "Fitness Tracker to monitor your health and activities.",
+  "color": "Blue",
+  "size": "Small/Medium"
+},
+{
+  "_id": {
+    "$oid": "65896da54a3f93be51bed9b7"
+  },
+  "productID": "prod654",
+  "img1": "https://example.com/product654_img1.jpg",
+  "img2": "https://example.com/product654_img2.jpg",
+  "img3": "https://example.com/product654_img3.jpg",
+  "img4": "https://example.com/product654_img4.jpg",
+  "description": "Compact Coffee Maker Deluxe for your daily brew.",
+  "color": "Red",
+  "size": "One Size"
+},
+{
+  "_id": {
+    "$oid": "65896da54a3f93be51bed9b8"
+  },
+  "productID": "prod234",
+  "img1": "https://example.com/product234_img1.jpg",
+  "img2": "https://example.com/product234_img2.jpg",
+  "img3": "https://example.com/product234_img3.jpg",
+  "img4": "https://example.com/product234_img4.jpg",
+  "description": "Smart LED TV with 4K resolution for an exceptional viewing experience.",
+  "color": "Black",
+  "size": "55-inch"
+},
+{
+  "_id": {
+    "$oid": "65896da54a3f93be51bed9b9"
+  },
+  "productID": "prod567",
+  "img1": "https://example.com/product567_img1.jpg",
+  "img2": "https://example.com/product567_img2.jpg",
+  "img3": "https://example.com/product567_img3.jpg",
+  "img4": "https://example.com/product567_img4.jpg",
+  "description": "Gaming Laptop with high-end graphics and fast processing.",
+  "color": "RGB",
+  "size": "17-inch"
+},
+{
+  "_id": {
+    "$oid": "65896da54a3f93be51bed9ba"
+  },
+  "productID": "prod876",
+  "img1": "https://example.com/product876_img1.jpg",
+  "img2": "https://example.com/product876_img2.jpg",
+  "img3": "https://example.com/product876_img3.jpg",
+  "img4": "https://example.com/product876_img4.jpg",
+  "description": "Fashionable Backpack with multiple compartments for organized storage.",
+  "color": "Navy Blue",
+  "size": "Medium"
+},
+{
+  "_id": {
+    "$oid": "65896da54a3f93be51bed9bb"
+  },
+  "productID": "prod345",
+  "img1": "https://example.com/product345_img1.jpg",
+  "img2": "https://example.com/product345_img2.jpg",
+  "img3": "https://example.com/product345_img3.jpg",
+  "img4": "https://example.com/product345_img4.jpg",
+  "description": "Digital Camera with advanced features for professional photography.",
+  "color": "Silver",
+  "size": "One Size"
+},
+{
+  "_id": {
+    "$oid": "65896da54a3f93be51bed9bc"
+  },
+  "productID": "prod789",
+  "img1": "https://example.com/product789_img1.jpg",
+  "img2": "https://example.com/product789_img2.jpg",
+  "img3": "https://example.com/product789_img3.jpg",
+  "img4": "https://example.com/product789_img4.jpg",
+  "description": "Compact Blender for smoothies and shakes on the go.",
+  "color": "Green",
+  "size": "Small"
+}]

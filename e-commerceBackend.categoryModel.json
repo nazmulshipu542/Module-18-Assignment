@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "658965244a3f93be51bed978"
+  },
+  "categoryName": "Electronics",
+  "categoryImg": "https://example.com/electronics_category.jpg"
+},
+{
+  "_id": {
+    "$oid": "658965244a3f93be51bed979"
+  },
+  "categoryName": "Clothing",
+  "categoryImg": "https://example.com/clothing_category.jpg"
+},
+{
+  "_id": {
+    "$oid": "658965244a3f93be51bed97a"
+  },
+  "categoryName": "Home Decor",
+  "categoryImg": "https://example.com/homedecor_category.jpg"
+},
+{
+  "_id": {
+    "$oid": "658965244a3f93be51bed97b"
+  },
+  "categoryName": "Sports & Outdoors",
+  "categoryImg": "https://example.com/sports_category.jpg"
+},
+{
+  "_id": {
+    "$oid": "658965244a3f93be51bed97c"
+  },
+  "categoryName": "Beauty & Personal Care",
+  "categoryImg": "https://example.com/beauty_category.jpg"
+},
+{
+  "_id": {
+    "$oid": "658965244a3f93be51bed97d"
+  },
+  "categoryName": "Furniture",
+  "categoryImg": "https://example.com/furniture_category.jpg"
+},
+{
+  "_id": {
+    "$oid": "658965244a3f93be51bed97e"
+  },
+  "categoryName": "Toys & Games",
+  "categoryImg": "https://example.com/toys_category.jpg"
+},
+{
+  "_id": {
+    "$oid": "658965244a3f93be51bed97f"
+  },
+  "categoryName": "Books & Literature",
+  "categoryImg": "https://example.com/books_category.jpg"
+},
+{
+  "_id": {
+    "$oid": "658965244a3f93be51bed980"
+  },
+  "categoryName": "Jewelry",
+  "categoryImg": "https://example.com/jewelry_category.jpg"
+},
+{
+  "_id": {
+    "$oid": "658965244a3f93be51bed981"
+  },
+  "categoryName": "Food & Beverages",
+  "categoryImg": "https://example.com/food_category.jpg"
+}]

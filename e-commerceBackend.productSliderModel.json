@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "6589717e4a3f93be51bed9c9"
+  },
+  "productID": "prod123",
+  "title": "Smartphone X",
+  "description": "High-performance smartphone with advanced features.",
+  "price": 699.99,
+  "image": "https://example.com/product123_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "6589717e4a3f93be51bed9ca"
+  },
+  "productID": "prod456",
+  "title": "Wireless Headphones Pro",
+  "description": "Stylish wireless headphones for an immersive audio experience.",
+  "price": 129.99,
+  "image": "https://example.com/product456_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "6589717e4a3f93be51bed9cb"
+  },
+  "productID": "prod789",
+  "title": "Laptop Pro",
+  "description": "Powerful laptop for seamless productivity.",
+  "price": 1499.99,
+  "image": "https://example.com/product789_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "6589717e4a3f93be51bed9cc"
+  },
+  "productID": "prod987",
+  "title": "Fitness Tracker Plus",
+  "description": "Advanced fitness tracker to monitor your health and activities.",
+  "price": 79.99,
+  "image": "https://example.com/product987_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "6589717e4a3f93be51bed9cd"
+  },
+  "productID": "prod654",
+  "title": "Coffee Maker Deluxe",
+  "description": "Compact coffee maker for your daily brew.",
+  "price": 49.99,
+  "image": "https://example.com/product654_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "6589717e4a3f93be51bed9ce"
+  },
+  "productID": "prod234",
+  "title": "Smart LED TV",
+  "description": "4K resolution smart LED TV for an exceptional viewing experience.",
+  "price": 999.99,
+  "image": "https://example.com/product234_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "6589717e4a3f93be51bed9cf"
+  },
+  "productID": "prod567",
+  "title": "Gaming Laptop Pro",
+  "description": "High-end gaming laptop with advanced graphics and fast processing.",
+  "price": 1799.99,
+  "image": "https://example.com/product567_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "6589717e4a3f93be51bed9d0"
+  },
+  "productID": "prod876",
+  "title": "Fashionable Backpack",
+  "description": "Stylish backpack with multiple compartments for organized storage.",
+  "price": 79.99,
+  "image": "https://example.com/product876_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "6589717e4a3f93be51bed9d1"
+  },
+  "productID": "prod345",
+  "title": "Digital Camera Pro",
+  "description": "Professional-grade digital camera with advanced features.",
+  "price": 499.99,
+  "image": "https://example.com/product345_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "6589717e4a3f93be51bed9d2"
+  },
+  "productID": "prod789",
+  "title": "Compact Blender",
+  "description": "Compact blender for smoothies and shakes on the go.",
+  "price": 39.99,
+  "image": "https://example.com/product789_image.jpg"
+}]

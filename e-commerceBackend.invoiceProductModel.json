@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "658969df4a3f93be51bed99d"
+  },
+  "userID": "john_doe",
+  "productID": "prod123",
+  "invoiceID": "inv456",
+  "quantity": 2,
+  "price": 59.99,
+  "color": "Blue",
+  "size": "Medium"
+},
+{
+  "_id": {
+    "$oid": "658969df4a3f93be51bed99e"
+  },
+  "userID": "alice_smith",
+  "productID": "prod456",
+  "invoiceID": "inv789",
+  "quantity": 1,
+  "price": 79.99,
+  "color": "Red",
+  "size": "Large"
+},
+{
+  "_id": {
+    "$oid": "658969df4a3f93be51bed99f"
+  },
+  "userID": "bob_johnson",
+  "productID": "prod789",
+  "invoiceID": "inv101",
+  "quantity": 3,
+  "price": 29.99,
+  "color": "Black",
+  "size": "Small"
+},
+{
+  "_id": {
+    "$oid": "658969df4a3f93be51bed9a0"
+  },
+  "userID": "eva_brown",
+  "productID": "prod987",
+  "invoiceID": "inv202",
+  "quantity": 5,
+  "price": 49.99,
+  "color": "Green",
+  "size": "Extra Large"
+},
+{
+  "_id": {
+    "$oid": "658969df4a3f93be51bed9a1"
+  },
+  "userID": "michael_miller",
+  "productID": "prod654",
+  "invoiceID": "inv303",
+  "quantity": 1,
+  "price": 39.99,
+  "color": "White",
+  "size": "Medium"
+},
+{
+  "_id": {
+    "$oid": "658969df4a3f93be51bed9a2"
+  },
+  "userID": "emma_jones",
+  "productID": "prod234",
+  "invoiceID": "inv404",
+  "quantity": 2,
+  "price": 49.99,
+  "color": "Purple",
+  "size": "Small"
+},
+{
+  "_id": {
+    "$oid": "658969df4a3f93be51bed9a3"
+  },
+  "userID": "david_wilson",
+  "productID": "prod567",
+  "invoiceID": "inv505",
+  "quantity": 1,
+  "price": 99.99,
+  "color": "Silver",
+  "size": "Large"
+},
+{
+  "_id": {
+    "$oid": "658969df4a3f93be51bed9a4"
+  },
+  "userID": "olivia_smith",
+  "productID": "prod876",
+  "invoiceID": "inv606",
+  "quantity": 4,
+  "price": 19.99,
+  "color": "Yellow",
+  "size": "Extra Small"
+},
+{
+  "_id": {
+    "$oid": "658969df4a3f93be51bed9a5"
+  },
+  "userID": "noah_jackson",
+  "productID": "prod345",
+  "invoiceID": "inv707",
+  "quantity": 3,
+  "price": 69.99,
+  "color": "Orange",
+  "size": "Medium"
+},
+{
+  "_id": {
+    "$oid": "658969df4a3f93be51bed9a6"
+  },
+  "userID": "sophia_anderson",
+  "productID": "prod789",
+  "invoiceID": "inv808",
+  "quantity": 1,
+  "price": 79.99,
+  "color": "Brown",
+  "size": "Large"
+}]

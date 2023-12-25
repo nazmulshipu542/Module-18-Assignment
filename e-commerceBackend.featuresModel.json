@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6589668b4a3f93be51bed985"
+  },
+  "name": "High Resolution Display",
+  "description": "Experience stunning visuals with a high-resolution display for crystal-clear images.",
+  "img": "https://example.com/high_resolution_display.jpg"
+},
+{
+  "_id": {
+    "$oid": "6589668b4a3f93be51bed986"
+  },
+  "name": "Wireless Connectivity",
+  "description": "Stay connected wirelessly with advanced Bluetooth and Wi-Fi capabilities.",
+  "img": "https://example.com/wireless_connectivity.jpg"
+},
+{
+  "_id": {
+    "$oid": "6589668b4a3f93be51bed987"
+  },
+  "name": "Smart Home Integration",
+  "description": "Seamlessly integrate with your smart home devices for enhanced control and automation.",
+  "img": "https://example.com/smart_home_integration.jpg"
+},
+{
+  "_id": {
+    "$oid": "6589668b4a3f93be51bed988"
+  },
+  "name": "Long Battery Life",
+  "description": "Enjoy extended usage with a long-lasting battery that keeps up with your active lifestyle.",
+  "img": "https://example.com/long_battery_life.jpg"
+},
+{
+  "_id": {
+    "$oid": "6589668b4a3f93be51bed989"
+  },
+  "name": "Water-Resistant Design",
+  "description": "Designed to withstand water exposure, ensuring durability and reliability.",
+  "img": "https://example.com/water_resistant_design.jpg"
+},
+{
+  "_id": {
+    "$oid": "6589668b4a3f93be51bed98a"
+  },
+  "name": "Noise-Canceling Technology",
+  "description": "Immerse yourself in a world of sound with advanced noise-canceling technology for a tranquil experience.",
+  "img": "https://example.com/noise_canceling_technology.jpg"
+},
+{
+  "_id": {
+    "$oid": "6589668b4a3f93be51bed98b"
+  },
+  "name": "Multi-Functionality",
+  "description": "Experience versatility with multi-functional capabilities to cater to a variety of tasks and activities.",
+  "img": "https://example.com/multi_functionality.jpg"
+},
+{
+  "_id": {
+    "$oid": "6589668b4a3f93be51bed98c"
+  },
+  "name": "Sleek and Modern Design",
+  "description": "Elevate your style with a sleek and modern design that complements your aesthetic preferences.",
+  "img": "https://example.com/sleek_and_modern_design.jpg"
+},
+{
+  "_id": {
+    "$oid": "6589668b4a3f93be51bed98d"
+  },
+  "name": "Intuitive Touch Controls",
+  "description": "Navigate effortlessly with intuitive touch controls for a seamless user experience.",
+  "img": "https://example.com/intuitive_touch_controls.jpg"
+},
+{
+  "_id": {
+    "$oid": "6589668b4a3f93be51bed98e"
+  },
+  "name": "Fast Charging Technology",
+  "description": "Charge your device quickly and efficiently with cutting-edge fast charging technology.",
+  "img": "https://example.com/fast_charging_technology.jpg"
+}]

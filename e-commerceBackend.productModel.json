@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "65896f634a3f93be51bed9be"
+  },
+  "productID": "prod123",
+  "title": "Smartphone X",
+  "description": "High-performance smartphone with advanced features.",
+  "price": 699.99,
+  "discount": 10,
+  "discountPrice": 629.99,
+  "image": "https://example.com/product123_image.jpg",
+  "star": 4.5,
+  "stock": 100,
+  "remark": "Available in Black and Silver",
+  "brandID": "brand001"
+},
+{
+  "_id": {
+    "$oid": "65896f634a3f93be51bed9bf"
+  },
+  "productID": "prod456",
+  "title": "Wireless Headphones Pro",
+  "description": "Stylish wireless headphones for an immersive audio experience.",
+  "price": 129.99,
+  "discount": 15,
+  "discountPrice": 110.49,
+  "image": "https://example.com/product456_image.jpg",
+  "star": 4.8,
+  "stock": 50,
+  "remark": "Available in Silver and Gold",
+  "brandID": "brand002"
+},
+{
+  "_id": {
+    "$oid": "65896f634a3f93be51bed9c0"
+  },
+  "productID": "prod789",
+  "title": "Laptop Pro",
+  "description": "Powerful laptop for seamless productivity.",
+  "price": 1499.99,
+  "discount": 5,
+  "discountPrice": 1424.99,
+  "image": "https://example.com/product789_image.jpg",
+  "star": 4.7,
+  "stock": 30,
+  "remark": "Available in Space Gray and Rose Gold",
+  "brandID": "brand003"
+},
+{
+  "_id": {
+    "$oid": "65896f634a3f93be51bed9c1"
+  },
+  "productID": "prod987",
+  "title": "Fitness Tracker Plus",
+  "description": "Advanced fitness tracker to monitor your health and activities.",
+  "price": 79.99,
+  "discount": 20,
+  "discountPrice": 63.99,
+  "image": "https://example.com/product987_image.jpg",
+  "star": 4.6,
+  "stock": 80,
+  "remark": "Available in Blue and Black",
+  "brandID": "brand004"
+},
+{
+  "_id": {
+    "$oid": "65896f634a3f93be51bed9c2"
+  },
+  "productID": "prod654",
+  "title": "Coffee Maker Deluxe",
+  "description": "Compact coffee maker for your daily brew.",
+  "price": 49.99,
+  "discount": 8,
+  "discountPrice": 45.99,
+  "image": "https://example.com/product654_image.jpg",
+  "star": 4.9,
+  "stock": 120,
+  "remark": "Available in Red and White",
+  "brandID": "brand005"
+},
+{
+  "_id": {
+    "$oid": "65896f634a3f93be51bed9c3"
+  },
+  "productID": "prod234",
+  "title": "Smart LED TV",
+  "description": "4K resolution smart LED TV for an exceptional viewing experience.",
+  "price": 999.99,
+  "discount": 12,
+  "discountPrice": 879.99,
+  "image": "https://example.com/product234_image.jpg",
+  "star": 4.7,
+  "stock": 60,
+  "remark": "Available in Black and Silver",
+  "brandID": "brand001"
+},
+{
+  "_id": {
+    "$oid": "65896f634a3f93be51bed9c4"
+  },
+  "productID": "prod567",
+  "title": "Gaming Laptop Pro",
+  "description": "High-end gaming laptop with advanced graphics and fast processing.",
+  "price": 1799.99,
+  "discount": 15,
+  "discountPrice": 1529.99,
+  "image": "https://example.com/product567_image.jpg",
+  "star": 4.8,
+  "stock": 40,
+  "remark": "Available in RGB and Black",
+  "brandID": "brand002"
+},
+{
+  "_id": {
+    "$oid": "65896f634a3f93be51bed9c5"
+  },
+  "productID": "prod876",
+  "title": "Fashionable Backpack",
+  "description": "Stylish backpack with multiple compartments for organized storage.",
+  "price": 79.99,
+  "discount": 10,
+  "discountPrice": 71.99,
+  "image": "https://example.com/product876_image.jpg",
+  "star": 4.6,
+  "stock": 90,
+  "remark": "Available in Navy Blue and Gray",
+  "brandID": "brand003"
+},
+{
+  "_id": {
+    "$oid": "65896f634a3f93be51bed9c6"
+  },
+  "productID": "prod345",
+  "title": "Digital Camera Pro",
+  "description": "Professional-grade digital camera with advanced features.",
+  "price": 499.99,
+  "discount": 8,
+  "discountPrice": 459.99,
+  "image": "https://example.com/product345_image.jpg",
+  "star": 4.9,
+  "stock": 25,
+  "remark": "Available in Silver and Black",
+  "brandID": "brand004"
+},
+{
+  "_id": {
+    "$oid": "65896f634a3f93be51bed9c7"
+  },
+  "productID": "prod789",
+  "title": "Compact Blender",
+  "description": "Compact blender for smoothies and shakes on the go.",
+  "price": 39.99,
+  "discount": 5,
+  "discountPrice": 37.99,
+  "image": "https://example.com/product789_image.jpg",
+  "star": 4.5,
+  "stock": 150,
+  "remark": "Available in Green and Purple",
+  "brandID": "brand005"
+}]

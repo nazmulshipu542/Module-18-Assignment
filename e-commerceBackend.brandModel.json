@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "658962364a3f93be51bed960"
+  },
+  "brandName": "TechMaster",
+  "brandImg": "https://example.com/techmaster_logo.jpg"
+},
+{
+  "_id": {
+    "$oid": "658962364a3f93be51bed961"
+  },
+  "brandName": "FashionElite",
+  "brandImg": "https://example.com/fashionelite_logo.jpg"
+},
+{
+  "_id": {
+    "$oid": "658962364a3f93be51bed962"
+  },
+  "brandName": "HomeEssentials",
+  "brandImg": "https://example.com/homeessentials_logo.jpg"
+},
+{
+  "_id": {
+    "$oid": "658962364a3f93be51bed963"
+  },
+  "brandName": "GourmetDelight",
+  "brandImg": "https://example.com/gourmetdelight_logo.jpg"
+},
+{
+  "_id": {
+    "$oid": "658962364a3f93be51bed964"
+  },
+  "brandName": "SportsGear",
+  "brandImg": "https://example.com/sportsgear_logo.jpg"
+},
+{
+  "_id": {
+    "$oid": "658962364a3f93be51bed965"
+  },
+  "brandName": "NatureHarmony",
+  "brandImg": "https://example.com/natureharmony_logo.jpg"
+},
+{
+  "_id": {
+    "$oid": "658962364a3f93be51bed966"
+  },
+  "brandName": "UrbanStyle",
+  "brandImg": "https://example.com/urbanstyle_logo.jpg"
+},
+{
+  "_id": {
+    "$oid": "658962364a3f93be51bed967"
+  },
+  "brandName": "HealthFirst",
+  "brandImg": "https://example.com/healthfirst_logo.jpg"
+},
+{
+  "_id": {
+    "$oid": "658962364a3f93be51bed968"
+  },
+  "brandName": "AutoTech",
+  "brandImg": "https://example.com/autotech_logo.jpg"
+},
+{
+  "_id": {
+    "$oid": "658962364a3f93be51bed969"
+  },
+  "brandName": "PetParadise",
+  "brandImg": "https://example.com/petparadise_logo.jpg"
+}]

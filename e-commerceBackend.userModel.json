@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6589766f4a3f93be51bed9ea"
+  },
+  "userID": "john_doe",
+  "productID": "prod123",
+  "email": "john.doe@email.com",
+  "otp": "123456"
+},
+{
+  "_id": {
+    "$oid": "6589766f4a3f93be51bed9eb"
+  },
+  "userID": "alice_smith",
+  "productID": "prod456",
+  "email": "alice.smith@email.com",
+  "otp": "789012"
+},
+{
+  "_id": {
+    "$oid": "6589766f4a3f93be51bed9ec"
+  },
+  "userID": "bob_johnson",
+  "productID": "prod789",
+  "email": "bob.johnson@email.com",
+  "otp": "345678"
+},
+{
+  "_id": {
+    "$oid": "6589766f4a3f93be51bed9ed"
+  },
+  "userID": "eva_brown",
+  "productID": "prod987",
+  "email": "eva.brown@email.com",
+  "otp": "901234"
+},
+{
+  "_id": {
+    "$oid": "6589766f4a3f93be51bed9ee"
+  },
+  "userID": "michael_miller",
+  "productID": "prod654",
+  "email": "michael.miller@email.com",
+  "otp": "567890"
+},
+{
+  "_id": {
+    "$oid": "6589766f4a3f93be51bed9ef"
+  },
+  "userID": "emma_jones",
+  "productID": "prod234",
+  "email": "emma.jones@email.com",
+  "otp": "234567"
+},
+{
+  "_id": {
+    "$oid": "6589766f4a3f93be51bed9f0"
+  },
+  "userID": "david_wilson",
+  "productID": "prod567",
+  "email": "david.wilson@email.com",
+  "otp": "890123"
+},
+{
+  "_id": {
+    "$oid": "6589766f4a3f93be51bed9f1"
+  },
+  "userID": "olivia_smith",
+  "productID": "prod876",
+  "email": "olivia.smith@email.com",
+  "otp": "456789"
+},
+{
+  "_id": {
+    "$oid": "6589766f4a3f93be51bed9f2"
+  },
+  "userID": "noah_jackson",
+  "productID": "prod345",
+  "email": "noah.jackson@email.com",
+  "otp": "012345"
+},
+{
+  "_id": {
+    "$oid": "6589766f4a3f93be51bed9f3"
+  },
+  "userID": "sophia_anderson",
+  "productID": "prod789",
+  "email": "sophia.anderson@email.com",
+  "otp": "678901"
+}]

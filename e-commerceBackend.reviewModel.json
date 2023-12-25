@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "658974084a3f93be51bed9df"
+  },
+  "userID": "john_doe",
+  "productID": "prod123",
+  "description": "Excellent product! The features are amazing.",
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "658974084a3f93be51bed9e0"
+  },
+  "userID": "alice_smith",
+  "productID": "prod456",
+  "description": "These headphones deliver superb sound quality.",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "658974084a3f93be51bed9e1"
+  },
+  "userID": "bob_johnson",
+  "productID": "prod789",
+  "description": "The laptop is fast and reliable. Great for work!",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "658974084a3f93be51bed9e2"
+  },
+  "userID": "eva_brown",
+  "productID": "prod987",
+  "description": "Love the fitness tracker! It helps me stay active.",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "658974084a3f93be51bed9e3"
+  },
+  "userID": "michael_miller",
+  "productID": "prod654",
+  "description": "The coffee maker is compact and brews a perfect cup!",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "658974084a3f93be51bed9e4"
+  },
+  "userID": "emma_jones",
+  "productID": "prod234",
+  "description": "Impressive picture quality on the smart LED TV.",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "658974084a3f93be51bed9e5"
+  },
+  "userID": "david_wilson",
+  "productID": "prod567",
+  "description": "The gaming laptop exceeded my expectations!",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "658974084a3f93be51bed9e6"
+  },
+  "userID": "olivia_smith",
+  "productID": "prod876",
+  "description": "Stylish backpack with plenty of storage space.",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "658974084a3f93be51bed9e7"
+  },
+  "userID": "noah_jackson",
+  "productID": "prod345",
+  "description": "The digital camera captures stunning photos.",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "658974084a3f93be51bed9e8"
+  },
+  "userID": "sophia_anderson",
+  "productID": "prod789",
+  "description": "The compact blender is great for quick and healthy shakes.",
+  "rating": 4.5
+}]

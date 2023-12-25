@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "658972df4a3f93be51bed9d4"
+  },
+  "userID": "john_doe",
+  "address": "123 Main Street",
+  "city": "New York",
+  "country": "USA",
+  "email": "john.doe@email.com",
+  "name": "John Doe",
+  "phone": "+1 123-456-7890",
+  "ship_postcode": "10001",
+  "ship_state": "NY"
+},
+{
+  "_id": {
+    "$oid": "658972df4a3f93be51bed9d5"
+  },
+  "userID": "alice_smith",
+  "address": "456 Oak Avenue",
+  "city": "Los Angeles",
+  "country": "USA",
+  "email": "alice.smith@email.com",
+  "name": "Alice Smith",
+  "phone": "+1 987-654-3210",
+  "ship_postcode": "90001",
+  "ship_state": "CA"
+},
+{
+  "_id": {
+    "$oid": "658972df4a3f93be51bed9d6"
+  },
+  "userID": "bob_johnson",
+  "address": "789 Pine Road",
+  "city": "Chicago",
+  "country": "USA",
+  "email": "bob.johnson@email.com",
+  "name": "Bob Johnson",
+  "phone": "+1 111-222-3333",
+  "ship_postcode": "60601",
+  "ship_state": "IL"
+},
+{
+  "_id": {
+    "$oid": "658972df4a3f93be51bed9d7"
+  },
+  "userID": "eva_brown",
+  "address": "101 Cedar Lane",
+  "city": "Dallas",
+  "country": "USA",
+  "email": "eva.brown@email.com",
+  "name": "Eva Brown",
+  "phone": "+1 444-555-6666",
+  "ship_postcode": "75201",
+  "ship_state": "TX"
+},
+{
+  "_id": {
+    "$oid": "658972df4a3f93be51bed9d8"
+  },
+  "userID": "michael_miller",
+  "address": "202 Maple Street",
+  "city": "San Francisco",
+  "country": "USA",
+  "email": "michael.miller@email.com",
+  "name": "Michael Miller",
+  "phone": "+1 777-888-9999",
+  "ship_postcode": "94102",
+  "ship_state": "CA"
+},
+{
+  "_id": {
+    "$oid": "658972df4a3f93be51bed9d9"
+  },
+  "userID": "emma_jones",
+  "address": "303 Rose Lane",
+  "city": "Seattle",
+  "country": "USA",
+  "email": "emma.jones@email.com",
+  "name": "Emma Jones",
+  "phone": "+1 333-666-9999",
+  "ship_postcode": "98101",
+  "ship_state": "WA"
+},
+{
+  "_id": {
+    "$oid": "658972df4a3f93be51bed9da"
+  },
+  "userID": "david_wilson",
+  "address": "404 Elm Avenue",
+  "city": "Miami",
+  "country": "USA",
+  "email": "david.wilson@email.com",
+  "name": "David Wilson",
+  "phone": "+1 555-777-1111",
+  "ship_postcode": "33101",
+  "ship_state": "FL"
+},
+{
+  "_id": {
+    "$oid": "658972df4a3f93be51bed9db"
+  },
+  "userID": "olivia_smith",
+  "address": "505 Pine Avenue",
+  "city": "Boston",
+  "country": "USA",
+  "email": "olivia.smith@email.com",
+  "name": "Olivia Smith",
+  "phone": "+1 123-987-6543",
+  "ship_postcode": "02101",
+  "ship_state": "MA"
+},
+{
+  "_id": {
+    "$oid": "658972df4a3f93be51bed9dc"
+  },
+  "userID": "noah_jackson",
+  "address": "606 Cedar Road",
+  "city": "Atlanta",
+  "country": "USA",
+  "email": "noah.jackson@email.com",
+  "name": "Noah Jackson",
+  "phone": "+1 777-222-8888",
+  "ship_postcode": "30301",
+  "ship_state": "GA"
+},
+{
+  "_id": {
+    "$oid": "658972df4a3f93be51bed9dd"
+  },
+  "userID": "sophia_anderson",
+  "address": "707 Maple Lane",
+  "city": "Denver",
+  "country": "USA",
+  "email": "sophia.anderson@email.com",
+  "name": "Sophia Anderson",
+  "phone": "+1 999-888-7777",
+  "ship_postcode": "80202",
+  "ship_state": "CO"
+}]

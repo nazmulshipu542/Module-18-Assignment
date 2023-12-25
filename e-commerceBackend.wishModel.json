@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "658977ab4a3f93be51bed9f5"
+  },
+  "userID": "john_doe",
+  "productID": "prod123"
+},
+{
+  "_id": {
+    "$oid": "658977ab4a3f93be51bed9f6"
+  },
+  "userID": "alice_smith",
+  "productID": "prod456"
+},
+{
+  "_id": {
+    "$oid": "658977ab4a3f93be51bed9f7"
+  },
+  "userID": "bob_johnson",
+  "productID": "prod789"
+},
+{
+  "_id": {
+    "$oid": "658977ab4a3f93be51bed9f8"
+  },
+  "userID": "eva_brown",
+  "productID": "prod987"
+},
+{
+  "_id": {
+    "$oid": "658977ab4a3f93be51bed9f9"
+  },
+  "userID": "michael_miller",
+  "productID": "prod654"
+},
+{
+  "_id": {
+    "$oid": "658977ab4a3f93be51bed9fa"
+  },
+  "userID": "emma_jones",
+  "productID": "prod234"
+},
+{
+  "_id": {
+    "$oid": "658977ab4a3f93be51bed9fb"
+  },
+  "userID": "david_wilson",
+  "productID": "prod567"
+},
+{
+  "_id": {
+    "$oid": "658977ab4a3f93be51bed9fc"
+  },
+  "userID": "olivia_smith",
+  "productID": "prod876"
+},
+{
+  "_id": {
+    "$oid": "658977ab4a3f93be51bed9fd"
+  },
+  "userID": "noah_jackson",
+  "productID": "prod345"
+},
+{
+  "_id": {
+    "$oid": "658977ab4a3f93be51bed9fe"
+  },
+  "userID": "sophia_anderson",
+  "productID": "prod789"
+}]
